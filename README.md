@@ -12,6 +12,6 @@ Example : ServerURL/rest/ParkService/parks/36.89/-76.35
 
 Output:
 
-JSON file with details of public parks within 10 miles distance sorted by distance.
+JSON file with details of public parks within 10 miles sorted by distance.
 
 
