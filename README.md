@@ -5,8 +5,8 @@ This application uses MVC Architecture.
 
 Input Parameters:
 
-1. lat = lattitude of current user's location.
-2. long = longitude of current user's location.
+1. lat = latitude of user's current location.
+2. long = longitude of user's current location.
 
 Example : ServerURL/rest/ParkService/parks/36.89/-76.35
 
