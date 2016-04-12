@@ -7,7 +7,7 @@ import javax.xml.bind.annotation.XmlRootElement;
 
 @XmlRootElement(name = "park")
 
-/*
+/* Creating a PArk Object 
  * To represent Park details
  * */
 public class Park implements Serializable,Comparable<Park> {
